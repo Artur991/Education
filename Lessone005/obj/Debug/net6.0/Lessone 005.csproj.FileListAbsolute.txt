@@ -1,0 +1,30 @@
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\Lessone 005.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\Lessone 005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\Lessone 005.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\Lessone 005.AssemblyInfo.cs
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\Lessone 005.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\bin\Debug\net6.0\Lessone 005.exe
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\bin\Debug\net6.0\Lessone 005.deps.json
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\bin\Debug\net6.0\Lessone 005.runtimeconfig.json
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\bin\Debug\net6.0\Lessone 005.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\bin\Debug\net6.0\Lessone 005.pdb
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\Lessone 005.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\refint\Lessone 005.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\Lessone 005.pdb
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\Lessone 005.genruntimeconfig.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone 005\obj\Debug\net6.0\ref\Lessone 005.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\Lessone 005.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\Lessone 005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\Lessone 005.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\Lessone 005.AssemblyInfo.cs
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\Lessone 005.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\Lessone 005.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\refint\Lessone 005.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\Lessone 005.pdb
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\bin\Debug\net6.0\Lessone 005.exe
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\bin\Debug\net6.0\Lessone 005.deps.json
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\bin\Debug\net6.0\Lessone 005.runtimeconfig.json
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\bin\Debug\net6.0\Lessone 005.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\bin\Debug\net6.0\Lessone 005.pdb
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\Lessone 005.genruntimeconfig.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone005\obj\Debug\net6.0\ref\Lessone 005.dll

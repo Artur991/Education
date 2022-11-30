@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\Lessone002.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\Lessone002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\Lessone002.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\Lessone002.AssemblyInfo.cs
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\Lessone002.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\bin\Debug\net6.0\Lessone002.exe
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\bin\Debug\net6.0\Lessone002.deps.json
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\bin\Debug\net6.0\Lessone002.runtimeconfig.json
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\bin\Debug\net6.0\Lessone002.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\bin\Debug\net6.0\Lessone002.pdb
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\Lessone002.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\refint\Lessone002.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\Lessone002.pdb
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\Lessone002.genruntimeconfig.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone002\obj\Debug\net6.0\ref\Lessone002.dll

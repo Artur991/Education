@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\bin\Debug\net6.0\Lessone003.exe
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\bin\Debug\net6.0\Lessone003.deps.json
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\bin\Debug\net6.0\Lessone003.runtimeconfig.json
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\bin\Debug\net6.0\Lessone003.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\bin\Debug\net6.0\Lessone003.pdb
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\Lessone003.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\Lessone003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\Lessone003.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\Lessone003.AssemblyInfo.cs
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\Lessone003.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\Lessone003.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\refint\Lessone003.dll
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\Lessone003.pdb
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\Lessone003.genruntimeconfig.cache
+C:\Users\admin\Desktop\Git Z\С#\Practic\Lessone003\obj\Debug\net6.0\ref\Lessone003.dll
